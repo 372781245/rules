@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,acl4.ssr
 
 # 集友银行
 DOMAIN-SUFFIX,chiyubank.com
+DOMAIN-SUFFIX,cacintbank.com
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,bochk.com
 
 # zhuiyi
 DOMAIN-SUFFIX,wezhuiyi.com
