@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,cacintbank.com
 DOMAIN-SUFFIX,gov.hk
 DOMAIN-SUFFIX,bochk.com
 
+#招商银行
+DOMAIN-SUFFIX,cmbchina.com
+
 # zhuiyi
 DOMAIN-SUFFIX,wezhuiyi.com
 
